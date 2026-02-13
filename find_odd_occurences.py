@@ -17,7 +17,7 @@ def countOdd(nums: List[int]):
 
 
 # Using XOR
-def countOddXor(l: List[int]):
+def countOddXor(l: List[int]):  # noqa: E741
     res = 0
     for num in l:
         res ^= num
