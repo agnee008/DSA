@@ -1,5 +1,5 @@
 """
-IP- [10,30,30,10,30,30,20]
+I/P- [10,30,30,10,30,30,20]
 OP- 20
 
 20 is only repeated only odd times
