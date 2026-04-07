@@ -1,1 +1,1 @@
-WIP: Daily DSA hurdle
+WIP - Daily DSA hurdle
